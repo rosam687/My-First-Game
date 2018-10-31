@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "11f82742-d0ef-428a-8c37-3fee0cb93bf0",
+            "Value": {
+                "id": "fecd3b27-4777-4a7a-a02c-b3bdc2276257",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1843beb2-eacd-430f-8a91-447e9f6da980",
             "Value": {
                 "id": "775a5470-9f24-4704-b362-58d5657e5b12",
