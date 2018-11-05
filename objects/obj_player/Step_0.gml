@@ -40,9 +40,9 @@ if (l5813D9EA_0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 1F2EFE1B
 		/// @DnDParent : 71ACBF82
-		/// @DnDArgument : "expr" "10"
+		/// @DnDArgument : "expr" "4"
 		/// @DnDArgument : "var" "cooldown"
-		cooldown = 10;
+		cooldown = 4;
 	}
 }
 
