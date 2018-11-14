@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "11ab80b6-0284-48be-a8a1-5e4989395a91",
+            "Value": {
+                "id": "658299b2-2a5d-4889-a0d8-bb1407323381",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "11f82742-d0ef-428a-8c37-3fee0cb93bf0",
             "Value": {
                 "id": "fecd3b27-4777-4a7a-a02c-b3bdc2276257",
